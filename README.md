@@ -8,6 +8,6 @@
 # 6. Configure the Ansible Config file
 # 7. Run the "Configure_EC2.yml" file to launch 1 master and 2 worker node
 # 8. Before Run the any program run this command
-* chmod 400 private_key_of_aws.pem *
+* ## chmod 400 private_key_of_aws.pem 
 # 9. Run the file "Configure_Master.yml" to configure the master node
 # 10. Run the file "Configure_Worker.yml" to configure worker node
